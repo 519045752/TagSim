@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-10-29">
+    <creator>NetworkX 2.8.7</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="7" label="7" />
+      <node id="5" label="5" />
+      <node id="15" label="15" />
+      <node id="0" label="0" />
+      <node id="2" label="2" />
+      <node id="3" label="3" />
+      <node id="10" label="10" />
+      <node id="13" label="13" />
+      <node id="14" label="14" />
+      <node id="9" label="9" />
+      <node id="12" label="12" />
+      <node id="17" label="17" />
+      <node id="11" label="11" />
+      <node id="1" label="1" />
+      <node id="16" label="16" />
+      <node id="6" label="6" />
+      <node id="8" label="8" />
+      <node id="4" label="4" />
+    </nodes>
+    <edges>
+      <edge source="7" target="5" id="76" />
+      <edge source="7" target="17" id="107" />
+      <edge source="7" target="0" id="6" />
+      <edge source="7" target="11" id="101" />
+      <edge source="7" target="3" id="51" />
+      <edge source="7" target="10" id="100" />
+      <edge source="7" target="13" id="103" />
+      <edge source="7" target="14" id="104" />
+      <edge source="7" target="9" id="99" />
+      <edge source="7" target="12" id="102" />
+      <edge source="7" target="15" id="105" />
+      <edge source="7" target="2" id="37" />
+      <edge source="7" target="1" id="22" />
+      <edge source="7" target="16" id="106" />
+      <edge source="7" target="6" id="87" />
+      <edge source="7" target="8" id="98" />
+      <edge source="7" target="4" id="64" />
+      <edge source="5" target="17" id="86" />
+      <edge source="5" target="0" id="4" />
+      <edge source="5" target="11" id="80" />
+      <edge source="5" target="3" id="49" />
+      <edge source="5" target="10" id="79" />
+      <edge source="5" target="13" id="82" />
+      <edge source="5" target="14" id="83" />
+      <edge source="5" target="9" id="78" />
+      <edge source="5" target="12" id="81" />
+      <edge source="5" target="15" id="84" />
+      <edge source="5" target="2" id="35" />
+      <edge source="5" target="1" id="20" />
+      <edge source="5" target="16" id="85" />
+      <edge source="5" target="6" id="75" />
+      <edge source="5" target="8" id="77" />
+      <edge source="5" target="4" id="62" />
+      <edge source="15" target="0" id="14" />
+      <edge source="15" target="2" id="45" />
+      <edge source="15" target="3" id="59" />
+      <edge source="15" target="10" id="129" />
+      <edge source="15" target="13" id="144" />
+      <edge source="15" target="14" id="147" />
+      <edge source="15" target="9" id="122" />
+      <edge source="15" target="12" id="140" />
+      <edge source="15" target="17" id="151" />
+      <edge source="15" target="11" id="135" />
+      <edge source="15" target="1" id="30" />
+      <edge source="15" target="16" id="150" />
+      <edge source="15" target="6" id="95" />
+      <edge source="15" target="8" id="114" />
+      <edge source="15" target="4" id="72" />
+      <edge source="0" target="10" id="9" />
+      <edge source="0" target="11" id="10" />
+      <edge source="0" target="3" id="2" />
+      <edge source="0" target="13" id="12" />
+      <edge source="0" target="14" id="13" />
+      <edge source="0" target="9" id="8" />
+      <edge source="0" target="12" id="11" />
+      <edge source="0" target="17" id="16" />
+      <edge source="0" target="2" id="1" />
+      <edge source="0" target="1" id="0" />
+      <edge source="0" target="16" id="15" />
+      <edge source="0" target="6" id="5" />
+      <edge source="0" target="8" id="7" />
+      <edge source="0" target="4" id="3" />
+      <edge source="2" target="11" id="41" />
+      <edge source="2" target="3" id="33" />
+      <edge source="2" target="10" id="40" />
+      <edge source="2" target="13" id="43" />
+      <edge source="2" target="14" id="44" />
+      <edge source="2" target="9" id="39" />
+      <edge source="2" target="12" id="42" />
+      <edge source="2" target="17" id="47" />
+      <edge source="2" target="1" id="17" />
+      <edge source="2" target="16" id="46" />
+      <edge source="2" target="6" id="36" />
+      <edge source="2" target="4" id="34" />
+      <edge source="3" target="8" id="52" />
+      <edge source="3" target="10" id="54" />
+      <edge source="3" target="13" id="57" />
+      <edge source="3" target="12" id="56" />
+      <edge source="3" target="9" id="53" />
+      <edge source="3" target="14" id="58" />
+      <edge source="3" target="17" id="61" />
+      <edge source="3" target="11" id="55" />
+      <edge source="3" target="1" id="18" />
+      <edge source="3" target="16" id="60" />
+      <edge source="3" target="6" id="50" />
+      <edge source="3" target="4" id="48" />
+      <edge source="10" target="13" id="127" />
+      <edge source="10" target="14" id="128" />
+      <edge source="10" target="9" id="117" />
+      <edge source="10" target="12" id="126" />
+      <edge source="10" target="17" id="131" />
+      <edge source="10" target="11" id="125" />
+      <edge source="10" target="1" id="25" />
+      <edge source="10" target="16" id="130" />
+      <edge source="10" target="6" id="90" />
+      <edge source="10" target="8" id="109" />
+      <edge source="10" target="4" id="67" />
+      <edge source="13" target="17" id="146" />
+      <edge source="13" target="14" id="143" />
+      <edge source="13" target="9" id="120" />
+      <edge source="13" target="12" id="138" />
+      <edge source="13" target="11" id="133" />
+      <edge source="13" target="1" id="28" />
+      <edge source="13" target="16" id="145" />
+      <edge source="13" target="6" id="93" />
+      <edge source="13" target="8" id="112" />
+      <edge source="13" target="4" id="70" />
+      <edge source="14" target="17" id="149" />
+      <edge source="14" target="12" id="139" />
+      <edge source="14" target="9" id="121" />
+      <edge source="14" target="11" id="134" />
+      <edge source="14" target="1" id="29" />
+      <edge source="14" target="16" id="148" />
+      <edge source="14" target="6" id="94" />
+      <edge source="14" target="8" id="113" />
+      <edge source="14" target="4" id="71" />
+      <edge source="9" target="16" id="123" />
+      <edge source="9" target="12" id="119" />
+      <edge source="9" target="17" id="124" />
+      <edge source="9" target="11" id="118" />
+      <edge source="9" target="1" id="24" />
+      <edge source="9" target="6" id="89" />
+      <edge source="9" target="8" id="108" />
+      <edge source="9" target="4" id="66" />
+      <edge source="12" target="17" id="142" />
+      <edge source="12" target="11" id="132" />
+      <edge source="12" target="1" id="27" />
+      <edge source="12" target="16" id="141" />
+      <edge source="12" target="6" id="92" />
+      <edge source="12" target="8" id="111" />
+      <edge source="12" target="4" id="69" />
+      <edge source="17" target="11" id="137" />
+      <edge source="17" target="1" id="32" />
+      <edge source="17" target="16" id="152" />
+      <edge source="17" target="6" id="97" />
+      <edge source="17" target="8" id="116" />
+      <edge source="17" target="4" id="74" />
+      <edge source="11" target="1" id="26" />
+      <edge source="11" target="16" id="136" />
+      <edge source="11" target="6" id="91" />
+      <edge source="11" target="8" id="110" />
+      <edge source="11" target="4" id="68" />
+      <edge source="1" target="16" id="31" />
+      <edge source="1" target="6" id="21" />
+      <edge source="1" target="8" id="23" />
+      <edge source="1" target="4" id="19" />
+      <edge source="16" target="6" id="96" />
+      <edge source="16" target="8" id="115" />
+      <edge source="16" target="4" id="73" />
+      <edge source="6" target="8" id="88" />
+      <edge source="6" target="4" id="63" />
+      <edge source="8" target="4" id="65" />
+    </edges>
+  </graph>
+</gexf>
